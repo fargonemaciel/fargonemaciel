@@ -2,29 +2,6 @@
 
 Senior Data Analyst | Data Science & AI
 
-Olá — eu sou **Fargone Maciel** 👋
-
-Sou um profissional de dados com foco em logística e transformação digital. Liderei a Torre de Controle de Operações Logísticas para COP30, aplicando análise avançada, monitoramento em tempo real e modelos preditivos para otimizar cadeia de suprimentos e operações.
-
-Destaques:
-- 🚀 Liderança da Torre de Controle de Operações Logísticas — transformação digital e governança
-- 📈 Modelos preditivos e previsão de demanda (GCP, SQL)
-- 📊 Dashboards e automações em Power BI para tomada de decisão operacional
-- 🤝 Projetos com Correios & UNICAMP e com o Ministério das Comunicações
-
-Áreas de atuação: Business Intelligence, Ciência de Dados e Operações Logísticas.
-
-Estou aberto a colaboração em projetos, palestras e parcerias técnicas. Vamos conectar!
-
-<div>
-    <a href="https://www.youtube.com/@fargonemaciel.o.analista" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-    <a href="https://www.instagram.com/fargonemaciel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="mailto:fargonemaciel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/fargonemaciel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -47,5 +24,26 @@ Estou aberto a colaboração em projetos, palestras e parcerias técnicas. Vamos
 
 <br/>
 <br/>
+<br/>
+<br/>
 
-<!-- Seção de Estatísticas removida por solicitação -->
+Olá — eu sou **Fargone Maciel** 👋
+
+Sou um profissional de dados com foco em logística e transformação digital. Liderei a Torre de Controle de Operações Logísticas para COP30, aplicando análise avançada, monitoramento em tempo real e modelos preditivos para otimizar cadeia de suprimentos e operações.
+
+Destaques:
+- 🚀 Liderança da Torre de Controle de Operações Logísticas — transformação digital e governança
+- 📈 Modelos preditivos e previsão de demanda (GCP, SQL)
+- 📊 Dashboards e automações em Power BI para tomada de decisão operacional
+- 🤝 Projetos com Correios & UNICAMP e com o Ministério das Comunicações
+
+Áreas de atuação: Business Intelligence, Ciência de Dados e Operações Logísticas.
+
+Estou aberto a colaboração em projetos, palestras e parcerias técnicas. Vamos conectar!
+
+<div>
+    <a href="https://www.youtube.com/@fargonemaciel.o.analista" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+    <a href="https://www.instagram.com/fargonemaciel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="mailto:fargonemaciel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/fargonemaciel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
